@@ -41,9 +41,9 @@ https://github.com/allissonny/clinical-note-summarizer
 A project from the DSC 550 coursework where I explored data using regression and classification techniques to understand relationships between features and an outcome of interest. The focus was on establishing an end-to-end workflow: data cleaning, feature preparation, model building (including OLS regression and Random Forest classification), evaluating results honestly, and reflecting on model limitations. Results showed modest predictive signal in the Random Forest model (≈ 0.56 accuracy), highlighting the importance of thoughtful modeling and the limits of available features.  
 
 🔗 Repository:
-https://github.com/allissonny/ml-analysis-dsc550.git
----
+http://github.com/allissonny/ml-analysis-dsc550.git
 
+---
 ## 🛠 Tools & Technologies
 Python · pandas · NumPy · Matplotlib · statsmodels · Jupyter Notebook · GitHub
 
