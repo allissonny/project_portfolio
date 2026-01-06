@@ -13,8 +13,7 @@ An analysis of U.S. healthcare data breach records examining whether breaches in
 **Key skills:**  
 Python, pandas, NumPy, Matplotlib, permutation testing, bootstrapping, regression modeling
 
-🔗 Repository:  
-https://github.com/allissonny/healthcare-data-breach-analysis
+🔗 Repository:  https://github.com/allissonny/healthcare-data-breach-analysis
 
 ### Regression & Modeling
 📁 dsc630-regression-analysis  
