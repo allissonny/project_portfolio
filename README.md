@@ -24,7 +24,8 @@ https://github.com/allissonny/healthcare-data-breach-analysis
 - Focus on model interpretation and limitations
 
 🔗 Repository: 
-https://github.com/yourusername/dsc630-regression-analysis 
+https://github.com/allissonny/healthcare-data-regression
+
 
 ### Pediatric Clinical Note Summarizer
 **Can Specialty-Tuned Generative AI Improve Clinical Documentation?**
