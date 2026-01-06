@@ -16,6 +16,26 @@ Python, pandas, NumPy, Matplotlib, permutation testing, bootstrapping, regressio
 🔗 Repository:  
 https://github.com/allissonny/healthcare-data-breach-analysis
 
+### Regression & Modeling
+📁 dsc630-regression-analysis  
+
+**Key skills:**  
+- OLS regression and Random Forest classification  
+- Focus on model interpretation and limitations
+
+🔗 Repository: 
+https://github.com/yourusername/dsc630-regression-analysis 
+
+### Pediatric Clinical Note Summarizer
+**Can Specialty-Tuned Generative AI Improve Clinical Documentation?**
+A generative AI project that fine-tunes an OpenAI model to transform unstructured pediatric visit notes into structured clinical summaries. The system demonstrates how specialty-specific fine-tuning can improve consistency, clarity, and usability of clinical documentation compared to general-purpose models.
+
+**Key skills:**
+Python, OpenAI API, generative AI fine-tuning, prompt engineering, dataset design, Streamlit, healthcare informatics, secure API handling
+
+🔗 Repository:
+https://github.com/allissonny/clinical-note-summarizer
+
 ---
 
 ## 🛠 Tools & Technologies
