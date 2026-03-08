@@ -8,6 +8,23 @@ The repositories linked below contain the full analysis code, documentation, and
 
 ---
 
+# About Me
+
+I am a healthcare professional transitioning into data science with a focus on **healthcare analytics and machine learning applications in clinical and operational settings**.
+
+My background in healthcare combined with data science training allows me to approach analytical problems with both **technical and domain expertise**.
+
+Areas of interest:
+
+- Healthcare analytics
+- Predictive modeling
+- Clinical data science
+- Machine learning applications in healthcare
+- Generative AI for medical documentation
+- Healthcare operational analytics
+
+---
+
 # Featured Projects
 
 ## 1. Healthcare Data Breach Analysis
@@ -220,17 +237,6 @@ Coming Soon
 
 ---
 
-# About Me
-
-I am a healthcare professional transitioning into data science with a focus on **healthcare analytics and machine learning applications in clinical and operational settings**. My background in healthcare combined with data science training allows me to approach analytical problems with both technical and domain expertise.
-
-My interests include:
-
-- healthcare analytics
-- clinical data science
-- machine learning applications in healthcare
-- generative AI for medical documentation
-- predictive modeling for healthcare operations
 
 ## 📬 Contact
 LinkedIn: https://www.linkedin.com/in/allison-evanich-a75821b0/ 
