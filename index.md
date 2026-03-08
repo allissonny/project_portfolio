@@ -118,4 +118,4 @@ Repository coming soon
 
 **GitHub:** [allissonny](https://github.com/allissonny)
 
-**LinkedIn:** [(https://www.linkedin.com/in/allison-evanich-a75821b0/)]
+**LinkedIn:** [Allison Evanich](https://www.linkedin.com/in/allison-evanich-a75821b0/)
