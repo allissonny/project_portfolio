@@ -25,7 +25,8 @@ My background in healthcare combined with data science training allows me to app
 **Do Business Associates Affect Breach Impact?**  
 An analysis of U.S. healthcare data breach records examining whether breaches involving third-party business associates affect more individuals than breaches without third-party involvement. Statistical testing and regression modeling were used to evaluate breach impact.
 
-**Key skills:** Python, pandas, NumPy, Matplotlib, permutation testing, bootstrapping, regression modeling  
+**Key skills:** Python, pandas, NumPy, Matplotlib, permutation testing, bootstrapping, regression modeling 
+
 [Repository](https://github.com/allissonny/healthcare-data-breach-analysis)
 
 ---
@@ -34,6 +35,7 @@ An analysis of U.S. healthcare data breach records examining whether breaches in
 A machine learning project using a synthetic healthcare dataset to predict high-cost hospital admissions. During model development, target leakage was identified and corrected, demonstrating the importance of careful feature selection and model validation in healthcare analytics.
 
 **Key skills:** Random Forest, ROC-AUC evaluation, feature engineering, healthcare analytics  
+
 [Repository](https://github.com/allissonny/hospital-cost-prediction)
 
 ---
@@ -42,6 +44,7 @@ A machine learning project using a synthetic healthcare dataset to predict high-
 A forecasting project analyzing global alcohol consumption patterns using WHO data. The project applies time-series analysis and predictive modeling to examine long-term consumption trends and potential future trajectories.
 
 **Key skills:** Time series analysis, forecasting models, data visualization  
+
 [Repository](https://github.com/allissonny/global_alcohol_consumption)
 
 ---
@@ -50,6 +53,7 @@ A forecasting project analyzing global alcohol consumption patterns using WHO da
 This project explores machine learning techniques to predict healthcare claim payment outcomes using synthetic claims data. The goal is to identify factors associated with claim denials and improve revenue cycle forecasting.
 
 **Key skills:** Predictive modeling, healthcare revenue cycle analytics, machine learning  
+
 [Repository](https://github.com/allissonny/healthcare_claims_data)
 
 ---
@@ -58,6 +62,7 @@ This project explores machine learning techniques to predict healthcare claim pa
 A generative AI project that fine-tunes an OpenAI model to transform unstructured pediatric visit notes into structured clinical summaries. The system demonstrates how specialty-specific prompt tuning can improve clarity and consistency of clinical documentation.
 
 **Key skills:** Python, OpenAI API, generative AI, prompt engineering, healthcare informatics  
+
 [Repository](https://github.com/allissonny/clinical-note-summarizer)
 
 ---
@@ -66,6 +71,7 @@ A generative AI project that fine-tunes an OpenAI model to transform unstructure
 Exploration of regression and machine learning techniques applied to healthcare datasets. Models include OLS regression and Random Forest classification with a focus on model interpretation, limitations, and responsible evaluation.
 
 **Key skills:** Regression modeling, Random Forest, statistical analysis, Python  
+
 [Repository](https://github.com/allissonny/healthcare-data-regression)
 
 ---
@@ -74,6 +80,7 @@ Exploration of regression and machine learning techniques applied to healthcare 
 A classification model that predicts potential diseases based on patient symptoms. This project demonstrates supervised learning methods applied to healthcare diagnostic data.
 
 **Key skills:** Supervised learning, classification modeling, healthcare predictive analytics  
+
 [Repository](https://github.com/allissonny/disease_symptoms_prediction_model)
 
 ---
