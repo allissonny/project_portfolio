@@ -67,24 +67,24 @@ https://github.com/allissonny/hospital-cost-prediction
 
 ---
 
-## 3. Emergency Admission Classification Model
+## 3. Bending the Curve: Global Alcohol Consumption Trends and Forecasting (2000–2022)
 
-A classification model designed to predict whether a hospital admission is categorized as an emergency encounter using demographic and administrative healthcare data. The analysis evaluates class imbalance and model performance using confusion matrices and ROC curves.
+A forecasting project analyzing global alcohol consumption patterns using WHO data. The project applies time-series analysis and predictive modeling to examine long-term consumption trends and potential future trajectories.
 
 **Key Skills**
 
-- classification modeling
-- Random Forest
-- confusion matrices
-- ROC analysis
-- healthcare operational analytics
+- time series analysis
+- forecasting models
+- data visualization
+- global health analytics
 
 Repository  
-Coming Soon
+https://github.com/allissonny/global_alcohol_consumption
+
 
 ---
 
-## 4. Predicting Claim Outcomes and Denials Using Synthetic Healthcare Claims Data *(In Progress)*
+## 4. Predicting Claim Outcomes and Denials Using Synthetic Healthcare Claims Data
 
 This project explores machine learning techniques to predict healthcare claim payment outcomes using synthetic claims data. The goal is to identify factors associated with claim denials and improve revenue cycle forecasting.
 
@@ -96,7 +96,7 @@ This project explores machine learning techniques to predict healthcare claim pa
 - claims data analysis
 
 Repository  
-Coming Soon
+https://github.com/allissonny/healthcare_claims_data
 
 ---
 
@@ -149,55 +149,9 @@ A classification model that predicts potential diseases based on patient symptom
 - supervised machine learning
 
 Repository  
-Coming Soon
+https://github.com/allissonny/disease_symptoms_prediction_model
 
----
 
-## 8. Healthcare Data Breach Modeling Extension
-
-A follow-up analysis extending the healthcare data breach dataset to explore predictive modeling approaches for estimating breach impact severity and risk factors.
-
-**Key Skills**
-
-- exploratory data analysis
-- regression modeling
-- healthcare risk analytics
-- statistical analysis
-
-Repository  
-Coming Soon
-
----
-
-## 9. TSA Complaint Analytics Dashboard
-
-A Power BI dashboard analyzing Transportation Security Administration (TSA) complaint data across U.S. airports to identify trends in passenger complaints and operational issues.
-
-**Key Skills**
-
-- Power BI
-- dashboard design
-- data visualization
-- operational analytics
-
-Repository  
-Coming Soon
-
----
-
-## 10. Bending the Curve: Global Alcohol Consumption Trends and Forecasting (2000–2022) *(In Progress)*
-
-A forecasting project analyzing global alcohol consumption patterns using WHO data. The project applies time-series analysis and predictive modeling to examine long-term consumption trends and potential future trajectories.
-
-**Key Skills**
-
-- time series analysis
-- forecasting models
-- data visualization
-- global health analytics
-
-Repository  
-Coming Soon
 
 ---
 
