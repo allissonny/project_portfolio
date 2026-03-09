@@ -151,7 +151,38 @@ A classification model that predicts potential diseases based on patient symptom
 Repository  
 https://github.com/allissonny/disease_symptoms_prediction_model
 
+---
 
+### 8. Emoji Chatbot Fine-Tuning(OpenAI)
+This project demonstrates how to fine-tune an OpenAI language model to generate responses using emojis.
+The notebook walks through the full workflow of preparing training data, validating the dataset, fine-tuning a model using the OpenAI API, and testing the resulting chatbot.
+The goal of the exercise was to better understand the fine-tuning lifecycle for generative AI models, including dataset preparation, model training, monitoring, and evaluation.
+
+**Key Skills:** Preparing JSONL training data, Validating data formatting, Uploading data to the OpenAI API, Running a fine-tuning job, Monitoring training progress, Testing the fine-tuned model
+
+Repository
+https://github.com/allissonny/EmojiChatbotFine-Tuning_OpenAI
+
+---
+
+### 9. GPT-2 Fine-Tuning with LoRA
+This project demonstrates how to fine-tune a GPT-2 language model using **LoRA (Low-Rank Adaptation)**, a parameter-efficient fine-tuning method that significantly reduces training cost and memory usage.
+The notebook follows the workflow described in Matthew MacFarquhar’s article “Sculpting Language: GPT-2 Fine-Tuning with LoRA”.
+
+**Key Skills:** Hugging Face Transformers, PEFT (Parameter Efficient Fine-Tuning, Datasets library, Accelerate, BitsAndBytes, PyTorch
+
+Repository
+https://github.com/allissonny/GPT-2_Fine-Tuning_with_LoRA
+
+---
+
+### 10. MLflow Monitoring for Generative AI
+This project demonstrates how to use **MLflow** to track metrics and parameters for generative AI experiments. The notebook integrates MLflow with the OpenAI API to log model usage statistics such as latency, token counts, and generation parameters during an interactive chat session.
+
+**Key Skills:** Python, MLflow, OpenAI API, tiktoken, Colorama
+
+Repository
+https://github.com/allissonny/MLflow_Monitoring_for_Generative-AI
 
 ---
 
