@@ -23,7 +23,7 @@ My background in healthcare combined with data science training allows me to app
 
 ### 1. Healthcare Data Breach Analysis  
 **Do Business Associates Affect Breach Impact?**  
-An analysis of U.S. healthcare data breach records examining whether breaches involving third-party business associates affect more individuals than breaches without third-party involvement.
+An analysis of U.S. healthcare data breach records examining whether breaches involving third-party business associates affect more individuals than breaches without third-party involvement. Statistical testing and regression modeling were used to evaluate breach impact.
 
 **Key skills:** Python, pandas, NumPy, Matplotlib, permutation testing, bootstrapping, regression modeling  
 [Repository](https://github.com/allissonny/healthcare-data-breach-analysis)
@@ -31,7 +31,7 @@ An analysis of U.S. healthcare data breach records examining whether breaches in
 ---
 
 ### 2. Hospital Cost Prediction with Machine Learning  
-Machine learning models predicting high-cost hospital admissions using a synthetic healthcare dataset. During model development, target leakage was identified and corrected, demonstrating the importance of careful feature selection.
+A machine learning project using a synthetic healthcare dataset to predict high-cost hospital admissions. During model development, target leakage was identified and corrected, demonstrating the importance of careful feature selection and model validation in healthcare analytics.
 
 **Key skills:** Random Forest, ROC-AUC evaluation, feature engineering, healthcare analytics  
 [Repository](https://github.com/allissonny/hospital-cost-prediction)
@@ -47,7 +47,7 @@ A forecasting project analyzing global alcohol consumption patterns using WHO da
 ---
 
 ### 4. Predicting Claim Outcomes and Denials Using Synthetic Healthcare Claims Data
-Machine learning models designed to predict healthcare claim outcomes and identify factors associated with claim denials using synthetic claims datasets.
+This project explores machine learning techniques to predict healthcare claim payment outcomes using synthetic claims data. The goal is to identify factors associated with claim denials and improve revenue cycle forecasting.
 
 **Key skills:** Predictive modeling, healthcare revenue cycle analytics, machine learning  
 [Repository](https://github.com/allissonny/healthcare_claims_data)
@@ -55,7 +55,7 @@ Machine learning models designed to predict healthcare claim outcomes and identi
 ---
 
 ### 5. Pediatric Clinical Note Summarizer  
-A generative AI project that transforms unstructured pediatric visit notes into structured clinical summaries using OpenAI models and prompt engineering.
+A generative AI project that fine-tunes an OpenAI model to transform unstructured pediatric visit notes into structured clinical summaries. The system demonstrates how specialty-specific prompt tuning can improve clarity and consistency of clinical documentation.
 
 **Key skills:** Python, OpenAI API, generative AI, prompt engineering, healthcare informatics  
 [Repository](https://github.com/allissonny/clinical-note-summarizer)
@@ -63,7 +63,7 @@ A generative AI project that transforms unstructured pediatric visit notes into 
 ---
 
 ### 6. Healthcare Regression & Modeling Analysis  
-Exploration of regression and machine learning techniques applied to healthcare datasets including OLS regression and Random Forest classification.
+Exploration of regression and machine learning techniques applied to healthcare datasets. Models include OLS regression and Random Forest classification with a focus on model interpretation, limitations, and responsible evaluation.
 
 **Key skills:** Regression modeling, Random Forest, statistical analysis, Python  
 [Repository](https://github.com/allissonny/healthcare-data-regression)
@@ -71,11 +71,40 @@ Exploration of regression and machine learning techniques applied to healthcare 
 ---
 
 ### 7. Disease Symptoms Prediction Model  
-Machine learning model predicting diseases based on patient symptom data.
+A classification model that predicts potential diseases based on patient symptoms. This project demonstrates supervised learning methods applied to healthcare diagnostic data.
 
 **Key skills:** Supervised learning, classification modeling, healthcare predictive analytics  
 [Repository](https://github.com/allissonny/disease_symptoms_prediction_model)
 
+---
+
+### 8. Emoji Chatbot Fine-Tuning(OpenAI)
+This project demonstrates how to fine-tune an OpenAI language model to generate responses using emojis.
+The notebook walks through the full workflow of preparing training data, validating the dataset, fine-tuning a model using the OpenAI API, and testing the resulting chatbot.
+The goal of the exercise was to better understand the fine-tuning lifecycle for generative AI models, including dataset preparation, model training, monitoring, and evaluation.
+
+**Key Skills:** Preparing JSONL training data, Validating data formatting, Uploading data to the OpenAI API, Running a fine-tuning job, Monitoring training progress, Testing the fine-tuned model
+
+[Repository](https://github.com/allissonny/EmojiChatbotFine-Tuning_OpenAI)
+
+---
+
+### 9. GPT-2 Fine-Tuning with LoRA
+This project demonstrates how to fine-tune a GPT-2 language model using **LoRA (Low-Rank Adaptation)**, a parameter-efficient fine-tuning method that significantly reduces training cost and memory usage.
+The notebook follows the workflow described in Matthew MacFarquhar’s article “Sculpting Language: GPT-2 Fine-Tuning with LoRA”.
+
+**Key Skills:** Hugging Face Transformers, PEFT (Parameter Efficient Fine-Tuning, Datasets library, Accelerate, BitsAndBytes, PyTorch
+
+[Repository](https://github.com/allissonny/GPT-2_Fine-Tuning_with_LoRA)
+
+---
+
+### 10. MLflow Monitoring for Generative AI
+This project demonstrates how to use **MLflow** to track metrics and parameters for generative AI experiments. The notebook integrates MLflow with the OpenAI API to log model usage statistics such as latency, token counts, and generation parameters during an interactive chat session.
+
+**Key Skills:** Python, MLflow, OpenAI API, tiktoken, Colorama
+
+[Repository](https://github.com/allissonny/MLflow_Monitoring_for_Generative-AI)
 
 ---
 
