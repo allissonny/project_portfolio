@@ -34,23 +34,24 @@ An analysis of U.S. healthcare data breach records examining whether breaches in
 Machine learning models predicting high-cost hospital admissions using a synthetic healthcare dataset. During model development, target leakage was identified and corrected, demonstrating the importance of careful feature selection.
 
 **Key skills:** Random Forest, ROC-AUC evaluation, feature engineering, healthcare analytics  
-[Repository](#)
+[Repository](https://github.com/allissonny/hospital-cost-prediction)
 
 ---
 
-### 3. Emergency Admission Classification Model  
-Classification model predicting emergency hospital admissions using demographic and administrative healthcare data.
+### 3. Bending the Curve: Global Alcohol Consumption Trends and Forecasting (2000–2022)
+A forecasting project analyzing global alcohol consumption patterns using WHO data. The project applies time-series analysis and predictive modeling to examine long-term consumption trends and potential future trajectories.
 
-**Key skills:** Classification modeling, Random Forest, confusion matrices, ROC analysis  
-[Repository](#)
+**Key skills:** Time series analysis, forecasting models, data visualization  
+Repository coming soon
+[Repository](https://github.com/allissonny/global_alcohol_consumption)
 
 ---
 
-### 4. Predicting Claim Outcomes and Denials Using Synthetic Healthcare Claims Data *(In Progress)*  
+### 4. Predicting Claim Outcomes and Denials Using Synthetic Healthcare Claims Data
 Machine learning models designed to predict healthcare claim outcomes and identify factors associated with claim denials using synthetic claims datasets.
 
 **Key skills:** Predictive modeling, healthcare revenue cycle analytics, machine learning  
-Repository coming soon
+[Repository](https://github.com/allissonny/healthcare_claims_data)
 
 ---
 
@@ -74,31 +75,8 @@ Exploration of regression and machine learning techniques applied to healthcare 
 Machine learning model predicting diseases based on patient symptom data.
 
 **Key skills:** Supervised learning, classification modeling, healthcare predictive analytics  
-[Repository](https://github.com/allissonny/ml-analysis-dsc550)
+[Repository](https://github.com/allissonny/disease_symptoms_prediction_model)
 
----
-
-### 8. Healthcare Data Breach Modeling Extension  
-Follow-up analysis extending healthcare breach data to explore predictive modeling approaches for estimating breach impact.
-
-**Key skills:** Exploratory analysis, regression modeling, healthcare risk analytics  
-Repository coming soon
-
----
-
-### 9. TSA Complaint Analytics Dashboard  
-Power BI dashboard analyzing TSA complaint data across U.S. airports to identify patterns in passenger complaints and operational issues.
-
-**Key skills:** Power BI, dashboard design, data visualization, operational analytics  
-Repository coming soon
-
----
-
-### 10. Bending the Curve: Global Alcohol Consumption Trends and Forecasting (2000–2022) *(In Progress)*  
-Time-series analysis and forecasting project examining global alcohol consumption trends.
-
-**Key skills:** Time series analysis, forecasting models, data visualization  
-Repository coming soon
 
 ---
 
