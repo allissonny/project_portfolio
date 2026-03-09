@@ -42,7 +42,6 @@ Machine learning models predicting high-cost hospital admissions using a synthet
 A forecasting project analyzing global alcohol consumption patterns using WHO data. The project applies time-series analysis and predictive modeling to examine long-term consumption trends and potential future trajectories.
 
 **Key skills:** Time series analysis, forecasting models, data visualization  
-Repository coming soon
 [Repository](https://github.com/allissonny/global_alcohol_consumption)
 
 ---
