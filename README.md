@@ -63,7 +63,7 @@ A machine learning project using a synthetic healthcare dataset to predict high-
 - healthcare operations analytics
 
 Repository  
-Coming Soon
+https://github.com/allissonny/hospital-cost-prediction
 
 ---
 
